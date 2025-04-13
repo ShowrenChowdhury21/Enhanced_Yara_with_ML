@@ -1,0 +1,13 @@
+data/raw/*
+data/processed/*
+data/test_samples/*
+evaluation_results/*
+models/evaluation/*
+models/trained/*
+evaluation.log
+feature_extraction.log
+model_training.log
+preprocessing.log
+rule_generator.log
+src/__pycache__/*
+src/data/__pycache__/*
